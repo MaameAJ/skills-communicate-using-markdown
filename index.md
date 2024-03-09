@@ -5,3 +5,7 @@
 ``` C#
 string test = "Hello World!";
 ```
+
+- [x] Arrive at library
+- [] Finish reviewing Github Foundations collection
+- [] Arrive at exam centre 
